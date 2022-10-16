@@ -2,22 +2,23 @@
 ## 📑 Hey, I'm Emi
 A software engineer originally from Helsinki, Finalnd, who's currenly residing in Osaka, Japan. I'm an aspiring blockchain developer with an few tricks up my sleave. I make anything from websites, desktop applications, video games, mobile apps to 3D designs, animation and music. I also have experience with SEO, cyber security, and much more. Regardless, I still pick up new skills every now and then as I go. My general goal in life is to create meaningful things to others through code.
 
-On my free time I'm either coding or reading books. 
+<div id="profile-visits" align="center">
+  <p>“Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.” <br></br>
+  -Scott Adams</p>
+</div>
+<br></br>
 
 ![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)
 
-
-[website here](https://getemoji.com/)
-
-
-## ⚡ Technologies
-I'm still exploring new technologies, concepts and languages and enhancing my overall knowledge as I get more experience. Either way, these are a some of the things I'm familiar with.
-
+## ⚡ Technologies & programming languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+[website here](https://getemoji.com/)
 
 
 still learning:
