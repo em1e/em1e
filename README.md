@@ -1,16 +1,26 @@
 ![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
 ## 📑 Hey, I'm Emi
 A software engineer originally from Helsinki, Finalnd, who's currenly residing in Osaka, Japan. I'm an aspiring blockchain developer with an few tricks up my sleave. I make anything from websites, desktop applications, video games, mobile apps to 3D designs, animation and music. I also have experience with SEO, cyber security, and much more. Regardless, I still pick up new skills every now and then as I go. My general goal in life is to create meaningful things to others through code.
 <br></br>
 <div id="profile-visits" align="center">
   <p>“Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.” ~Scott Adams</p>
 </div>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+***
 ![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)
+***
+## ⚡ Technologies
 
-## ⚡ Technologies & programming languages
+I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. I have millions of badges, you wouldn't even be able to imagine how much I've accompolished throughout the years. I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. Amen.
+***
+
+| Programming languages | Frameworks, Platforms & Libraries | Other |
+| ------------------------------------- | ------------------------------------- | -------------------------------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  | I have millions of badges, you wouldn't even be able to imagine how much I've accompolished throughout the years.  | I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. |
+
+
+<img src="" title="name" alt="name" width="40" height="40"/>&nbsp;
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,21 +69,19 @@ A software engineer originally from Helsinki, Finalnd, who's currenly residing i
 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 
@@ -82,7 +90,18 @@ A software engineer originally from Helsinki, Finalnd, who's currenly residing i
 | My name is bob and this is my odd test profile, don't mind me wrinting whatever to test this function out. | I have millions of badges, you wouldn't even be able to imagine how much I've accompolished throughout the years.  | I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. |
 
 
+<!--
+https://readme-typing-svg.herokuapp.com/demo/
+Art by [WANEELLA](https://waneella.tumblr.com/) 
+-->
+<br></br>
+Get your own profile parrot here ↓
+~~~~
 <div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
+</div>
+~~~~
+<div id="Parrots" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
@@ -94,12 +113,4 @@ A software engineer originally from Helsinki, Finalnd, who's currenly residing i
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
 
-<!--
-## 💵 Support me
-Help me keep doing what I love. I will keep making software because it is what I enjoy doing, but if you like one of my projects or want to support me you can do so here. I appreciate all of it and it is a nice motivator to keep me going.
-
-
-<a href="mailto:riku@kawaii.sh"><img src="https://raw.githubusercontent.com/JSH32/JSH32/master/assets/bottom.gif" alt="Contact Me"></a>
-Art by [WANEELLA](https://waneella.tumblr.com/) 
--->
-
+***
