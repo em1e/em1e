@@ -109,8 +109,6 @@ Get your own profile parrot here ↓
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
-  <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
-  <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
 
 ***
