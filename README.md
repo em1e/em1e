@@ -1,4 +1,4 @@
-![Banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main.gif)
+![Banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
 ## 📑 Hey, I'm Emi
 A software engineer originally from Helsinki, Finalnd, who's currenly residing in Osaka, Japan. I'm an aspiring blockchain developer with an few tricks up my sleave. I make anything from websites, desktop applications, video games, mobile apps to 3D designs, animation and music. I also have experience with SEO, cyber security, and much more. Regardless, I still pick up new skills every now and then as I go. My general goal in life is to create meaningful things to others through code.
 
