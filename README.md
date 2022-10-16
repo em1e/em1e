@@ -19,6 +19,19 @@ I'm so bad at writing please help, this is not fun. I'm stuggling so much with t
 | ------------------------------------- | ------------------------------------- | -------------------------------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  | I have millions of badges, you wouldn't even be able to imagine how much I've accompolished throughout the years.  | I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. |
 
+![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+    <br>
+    <a href="https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza">
+      <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/thiagodepaulasouza/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:thiagodepaulasouza@gmail.com" target"">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/16158910/thiago-souza" target"_blank">
+      <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
+</p>
 
 <img src="" title="name" alt="name" width="40" height="40"/>&nbsp;
 
@@ -57,6 +70,7 @@ I'm so bad at writing please help, this is not fun. I'm stuggling so much with t
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](your-stackoverflow-URL)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-gmai.address)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](your-twitch-URL)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord-server-URL)
 [![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-URL)
