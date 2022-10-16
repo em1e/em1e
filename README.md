@@ -1,5 +1,5 @@
 <!--![Banner](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif) -->
-## 📑 Hey I'm Emi
+## 📑 Hey, I'm Emi
 A software engineer originally from Helsinki, Finalnd, who's currenly residing in Osaka, Japan. I'm an aspiring blockchain developer with an few tricks up my sleave. I make anything from websites, desktop applications, video games, mobile apps to 3D designs, animation and music. I also have experience with SEO, cyber security, and much more. Regardless, I still pick up new skills every now and then as I go. My general goal in life is to create meaningful things to others through code.
 
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@ A software engineer originally from Helsinki, Finalnd, who's currenly residing i
 </div>
 
 <div id="badges">
-  <a href="https://www.sitepoint.com/github-profile-readme/">
+  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
