@@ -1,7 +1,7 @@
 ![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
 ***
 ## 📑 Hey, I'm Emi
-A software engineer originally from Helsinki, Finalnd, who's currenly residing in Osaka, Japan. I'm an aspiring entrepreneur, who know's a thing or two about tech. I've made things from websites, desktop applications, video games, mobile apps to 3D designs, animations and music. I also have experience with SEO, cyber security, and much more. Regardless, I still pick up new skills every now and then as I go. My general goal in life is to create meaningful things to others through code and tech.
+A software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games, mobile apps to 3D designs, animations and music. I also have experience with SEO, cyber security, and much more. Regardless, I still pick up new skills every now and then as I go. My general goal is to create meaningful things to others through code and tech.
 
 
 <div id="profile-visits" align="center">
@@ -12,10 +12,12 @@ A software engineer originally from Helsinki, Finalnd, who's currenly residing i
 ![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)
 ***
 
-## ⚡ Technologies
+## ⚡ Skills and technical stuff
 
 I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. I have millions of badges, you wouldn't even be able to imagine how much I've accompolished throughout the years. I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. Amen.
-***
+<div id="bear gif" align="center">
+  <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/>
+</div>
 
 | Programming languages | Frameworks, Platforms & Libraries | Other |
 | ------------------------------------- | ------------------------------------- | -------------------------------------|
@@ -29,29 +31,40 @@ I'm so bad at writing please help, this is not fun. I'm stuggling so much with t
 ![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)
 
 ***
+## 📬 Contact me
 
-
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](your-stackoverflow-URL)
-[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-gmai.address)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](your-twitch-URL)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord-server-URL)
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-URL)
-
-
-<div id="profile-visits" align="center">
-  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=blue" alt=""/>
+<div id="bear gif" align="center">
+  <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="250"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="300"/>
 </div>
 
-| Name                                  | Test                                              | Markdown                                                   |
-| ------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
-| My name is bob and this is my odd test profile, don't mind me wrinting whatever to test this function out. | I have millions of badges, you wouldn't even be able to imagine how much I've accompolished throughout the years.  | I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. |
+<div id=" badges" align="center"> 
+  <a href="your-stackoverflow-URL">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+  <a href="mailto:your-gmai-address">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="your-twitch-URL">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch Badge"/>
+  </a>
+   <a href="your-discord-server-URL">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="your-inkedIn-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>     
+</div>
 
-Banner's by [WANEELLA](https://waneella.tumblr.com/)
+<div id="profile-visits" align="center">
+  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=blue" alt=""/> 
+</div>
+                                                                                                                          
+<div id="profile-visits" align="right">
+  <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
+</div>      
 
-
-Profile picture by [Sam Yang](https://www.instagram.com/samdoesarts/?hl=en)
+***
+***
 
 <br></br>
 Get your own GitHub profile parrot here ↓
@@ -60,6 +73,7 @@ Get your own GitHub profile parrot here ↓
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
 ~~~~
+
 <div id="Parrots" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
@@ -69,11 +83,22 @@ Get your own GitHub profile parrot here ↓
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
+<br></br>
 
+<div id="P.S." align="right">
+  P.S. I'm still new to GitHub, so thanks for checking out my profile C: 
+</div>
+                            
 ***
 
 <!---
 <img src="" title="name" alt="name" width="40" height="40"/>&nbsp;
 https://readme-typing-svg.herokuapp.com/demo/
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](your-stackoverflow-URL)
+[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-gmai.address)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](your-twitch-URL)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord-server-URL)
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-URL)
 [![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-URL)
 --->
