@@ -1,12 +1,13 @@
 ![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
 ***
 ## 📑 Hey, I'm Emi
-A software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games, mobile apps to 3D designs, -animations and music. I also have experience with SEO, cyber security, etc. Regardless, I still tend to pick up new skills every now and then as I go. My general goal is to create meaningful things to others through code.
-
+A 19 yo software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games and mobile apps to 3D designs, -animations and music. I also have experience with SEO(search engine optimization) and cyber security. Though I might be a full rounded dev, I still love to pick up new skills and learn new things as I go C:
 
 <div id="profile-visits" align="center">
   <p>“Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.” ~Scott Adams</p>
 </div>
+
+"In a way, coding is an art; the art of cerating what you what to happen" ~me
 
 ***
 ![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)
