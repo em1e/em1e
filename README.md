@@ -48,7 +48,7 @@ I'm so bad at writing please help, this is not fun. I'm stuggling so much with t
 | ------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
 | My name is bob and this is my odd test profile, don't mind me wrinting whatever to test this function out. | I have millions of badges, you wouldn't even be able to imagine how much I've accompolished throughout the years.  | I'm so bad at writing please help, this is not fun. I'm stuggling so much with this. |
 
-Art by [WANEELLA](https://waneella.tumblr.com/) 
+Art by [WANEELLA](https://waneella.tumblr.com/) and [Sam Yang](https://www.instagram.com/samdoesarts/?hl=en)
 
 <!---
 <img src="" title="name" alt="name" width="40" height="40"/>&nbsp;
