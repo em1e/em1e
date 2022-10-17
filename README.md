@@ -30,12 +30,13 @@ I'm so bad at writing please help, this is not fun. I'm stuggling so much with t
 
 ***
 
+
+
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](your-stackoverflow-URL)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-gmai.address)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](your-twitch-URL)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord-server-URL)
-[![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-URL)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-URL)
 
 
@@ -51,11 +52,6 @@ Banner's by [WANEELLA](https://waneella.tumblr.com/)
 
 
 Profile picture by [Sam Yang](https://www.instagram.com/samdoesarts/?hl=en)
-
-<!---
-<img src="" title="name" alt="name" width="40" height="40"/>&nbsp;
-https://readme-typing-svg.herokuapp.com/demo/
---->
 
 <br></br>
 Get your own GitHub profile parrot here ↓
@@ -75,3 +71,9 @@ Get your own GitHub profile parrot here ↓
 </div>
 
 ***
+
+<!---
+<img src="" title="name" alt="name" width="40" height="40"/>&nbsp;
+https://readme-typing-svg.herokuapp.com/demo/
+[![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-URL)
+--->
