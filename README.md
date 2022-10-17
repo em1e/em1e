@@ -27,7 +27,7 @@ A software engineer and entrepreneur from Helsinki, Finland. I've made things fr
 ![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)
 
 ***
-## 📬 Contact me
+## 📬 Contact me - Coming soon...
 <div id="bear gif" align="center">
   <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
 </div>
@@ -51,7 +51,7 @@ A software engineer and entrepreneur from Helsinki, Finland. I've made things fr
 </div>
 
 <div id="profile-visits" align="center">
-  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=#E1306C" alt=""/> 
+  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=E1306C" alt=""/> 
 </div>
                                                                                                                           
 <div id="profile-visits" align="right">
@@ -60,9 +60,8 @@ A software engineer and entrepreneur from Helsinki, Finland. I've made things fr
 
 ***
 ![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
-***
 
-<br></br>
+
 Get your own GitHub profile parrot here ↓
 ~~~~
 <div id="header" align="center">
@@ -79,10 +78,10 @@ Get your own GitHub profile parrot here ↓
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
-<br></br>
+
 
 <div id="P.S." align="right">
-  P.S. I'm still new to GitHub C: 
+  P.S. I don't bite 
 </div>
                             
 ***
