@@ -28,9 +28,8 @@ A software engineer and entrepreneur from Helsinki, Finland. I've made things fr
 
 ***
 ## 📬 Contact me
-
 <div id="bear gif" align="center">
-  <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="250"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="300"/>
+  <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
 </div>
 
 <div id=" badges" align="center"> 
@@ -40,19 +39,19 @@ A software engineer and entrepreneur from Helsinki, Finland. I've made things fr
   <a href="mailto:your-gmai-address">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitch-URL">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch Badge"/>
+  <a href="your-instargam-URL">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
   </a>
    <a href="your-discord-server-URL">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="your-inkedIn-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>     
 </div>
 
 <div id="profile-visits" align="center">
-  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=blue" alt=""/> 
+  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=#E1306C" alt=""/> 
 </div>
                                                                                                                           
 <div id="profile-visits" align="right">
