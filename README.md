@@ -63,7 +63,7 @@ A 19 yo aspiring software engineer and entrepreneur from Helsinki, Finland. I'm 
 </div>      
 
 ***
-![Banner small 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)
+![Small banner 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)
 ***
 
 Get your own GitHub profile parrot here ↓
