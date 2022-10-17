@@ -1,7 +1,7 @@
 ![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
 ***
 ## 📑 Hey, I'm Emi
-A software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games, mobile apps to 3D designs, -animations and music. I also have experience with SEO, cyber security, and more. Regardless, I still tend to pick up new skills every now and then as I go. My general goal is to create meaningful things to others through code.
+A software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games, mobile apps to 3D designs, -animations and music. I also have experience with SEO, cyber security, etc. Regardless, I still tend to pick up new skills every now and then as I go. My general goal is to create meaningful things to others through code.
 
 
 <div id="profile-visits" align="center">
