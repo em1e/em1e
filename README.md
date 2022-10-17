@@ -1,13 +1,13 @@
 ![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
 ***
 ## 📑 Hey, I'm Emi
-A 19 yo aspiring software engineer and entrepreneur from Helsinki, Finland. My skills are still intermediate so my portfolio isn't fully there just yet, sorry about that. So far I've done websites, small games, mobile apps designs, 3D designs, 3D animations and some music. I also have experience in SEO (search engine optimization), creative writing and social media on a professional level. My goal is to become a full-rounded dev, as I love to pick up skills and learn new things. I'll have to wait and see what happens after that C:
+A 19 yo aspiring software engineer and entrepreneur from Helsinki, Finland. My skills are still intermediate so my portfolio isn't fully there just yet, sorry about that. So far I've done websites, small games, mobile app designs, 3D designs, 3D animations and music. I also have experience in SEO (search engine optimization), creative writing and social media on a professional level. My goal is to become a semi full-rounded dev, as I love to pick up skills and learn new things C:
+
+In my opinion, coding is an art; the art of creating what you imagine to be possible from technology. Though, not everyone ses it that way, it still doesn't mean its creative side isn't there. In my opinion, anyone in the field needs imagination and creativity almost as much as google. 
 
 <div id="profile-visits" align="center">
   <p>“Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.” ~Scott Adams</p>
 </div>
-
-"In a way, coding is an art; the art of cerating what you what to happen" ~me
 
 ***
 ![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)
@@ -20,9 +20,21 @@ A 19 yo aspiring software engineer and entrepreneur from Helsinki, Finland. My s
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><br></br>
 </div>
 
-| Programming languages  | Frameworks, Platforms & Libraries       | Other   |
-| ------------------------------------- | ------------------------------------- | -------------------------------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="dlender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp; |
+<div id="tech table" align="center">
+  <table>
+    <tr>
+      <th>Programming languages</th>
+      <th>Frameworks, Platforms & Libraries</th>
+      <th>Other</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="dlender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;</td>
+    </tr>
+  </table>
+</div>
+
 ***
 ![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)
 ***
