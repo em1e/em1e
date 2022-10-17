@@ -1,7 +1,7 @@
 ![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
 ***
 ## 📑 Hey, I'm Emi
-A software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games, mobile apps to 3D designs, animations and music. I also have experience with SEO, cyber security, and much more. Regardless, I still pick up new skills every now and then as I go. My general goal is to create meaningful things to others through code and tech.
+A software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games, mobile apps to 3D designs, -animations and music. I also have experience with SEO, cyber security, and more. Regardless, I still tend to pick up new skills every now and then as I go. My general goal is to create meaningful things to others through code.
 
 
 <div id="profile-visits" align="center">
@@ -67,7 +67,7 @@ A software engineer and entrepreneur from Helsinki, Finland. I've made things fr
 
 Get your own GitHub profile parrot here ↓
 ~~~~
-<div id="header" align="center">
+<div id="Parrots" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
 ~~~~
@@ -82,7 +82,6 @@ Get your own GitHub profile parrot here ↓
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
 
-
 <div id="P.S." align="right">
   P.S. I don't bite 
 </div>
@@ -90,8 +89,14 @@ Get your own GitHub profile parrot here ↓
 ***
 
 <!---
-<img src="" title="name" alt="name" width="40" height="40"/>&nbsp;
+!! Stuff I might use at some point. !!
+
 https://readme-typing-svg.herokuapp.com/demo/
+https://www.sitepoint.com/github-profile-readme/
+https://shields.io/
+https://github.com/devicons/devicon/
+https://github.com/Ileriayo/markdown-badges/blob/master/README.md
+
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](your-stackoverflow-URL)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-gmai.address)
