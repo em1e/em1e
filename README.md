@@ -15,7 +15,7 @@ In my opinion, coding is an art; the art of creating what you imagine to be poss
 
 ## ⚡ Skills and technical stuff
 
-<div id="bear gif" align="center">
+<div id="bear code gifs" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=D2962B&multiline=true&width=700&height=155&lines=Here's+a+list+of+technical+stuff+I'm+familiar+with%2C+and;have+previous+experience+in%2C+e.g.+from+projects.+In+the;past+I've+done+many+projects%2C+out+of+which+the+biggest;ones+can+be+found+on+my+website.;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.;Anyway%2C+thanks+for+checking+out+my+profile+%09%E2%99%A5" alt="Typing SVG" /></a><br></br>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><br></br>
 </div>
@@ -41,18 +41,18 @@ In my opinion, coding is an art; the art of creating what you imagine to be poss
 ![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
 ***
 ## 📬 Contact me - Coming soon...
-<div id="bear gif" align="center">
+<div id="bear & snail gifs" align="center">
   <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
 </div>
 
-<div id=" badges" align="center"> 
+<div id="contact badges" align="center"> 
   <a href="https://www.buymeacoffee.com/em1e">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
   </a>
   <a href="your-stackoverflow-URL">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="mailto:your-gmai-address">
+  <a href="mailto:emi.projects@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-instargam-URL">
@@ -95,7 +95,7 @@ Get your own GitHub profile parrot here ↓
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_401312_df628576-c034-ac7c-9449-1c9baf7a922a.avif" width="100"/>
 </div>
 
-<div id="P.S." align="right">
+<div id="fuck you >:)" align="right">
   P.S. I don't bite 
 </div>
                             
