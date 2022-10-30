@@ -14,12 +14,7 @@ With this logic you can say that "Codes are purely mistakes, coding is an art, a
 
 ## ⚡ Skills and technical stuff
 
-<div id="bear code gifs" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=D2962B&multiline=true&width=700&height=155&lines=Here's+a+list+of+technical+stuff+I'm+familiar+with%2C+and;have+previous+experience+in%2C+e.g.+from+projects.+In+the;past+I've+done+many+projects%2C+out+of+which+the+biggest;ones+can+be+found+on+my+website.;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.;Anyway%2C+thanks+for+checking+out+my+profile+%09%E2%99%A5" alt="Typing SVG" /></a><br></br>
-  <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><br></br>
-</div>
-
-<div id="tech table" align="center">
+<div id="tech stuff" align="center">
   <table>
     <tr>
       <th>Programming languages</th>
@@ -31,7 +26,11 @@ With this logic you can say that "Codes are purely mistakes, coding is an art, a
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp;</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="dlender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;</td>
     </tr>
-  </table>
+  </table> 
+  
+  <div id="orange texty thingy :P">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=D2962B&multiline=true&width=700&height=155&lines=Here's+a+list+of+technical+stuff+I'm+familiar+with%2C+and;have+previous+experience+in%2C+e.g.+from+projects.+In+the;past+I've+done+many+projects%2C+out+of+which+the+biggest;ones+can+be+found+on+my+website.;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.;Anyway%2C+thanks+for+checking+out+my+profile+%09%E2%99%A5" alt="Typing SVG" /></a><br></br>
+  </div>
 </div>
 
 ***
@@ -63,11 +62,11 @@ With this logic you can say that "Codes are purely mistakes, coding is an art, a
   </a>     
 </div>
 
-<div id="profile-visits" align="center">
+<div id="profile-visits text" align="center">
   <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=E1306C" alt=""/> 
 </div>
                                                                                                                           
-<div id="profile-visits" align="right">
+<div id="artists text" align="right">
   <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
 </div>      
 
@@ -82,7 +81,7 @@ Get your own GitHub profile parrot here ↓
 </div>
 ~~~~
 
-<div id="Parrots" align="center">
+<div id="Parrot gifs" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
@@ -108,6 +107,8 @@ https://github.com/devicons/devicon/
 https://github.com/Ileriayo/markdown-badges/blob/master/README.md
 https://giphy.com/abunchabears
 
+!! COMPUTER BEARS !!
+<img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/><br></br>
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](your-stackoverflow-URL)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-URL)
