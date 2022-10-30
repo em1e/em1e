@@ -6,7 +6,7 @@ A 19 yo developer and entrepreneur from Helsinki, Finland. So far, some personal
 <div id="profile-visits" align="center">
   <p>“Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.” ~Scott Adams</p>
 </div>
-With this logic you can say that "Codes are purely mistakes, coding is an art, and developers are artists who make it work by knowing what to keep", stay creative my freinds C:
+With this logic you can say that "Codes are purely mistakes, some work, and some don't. While coding in itself is an art, and developers are artists who make it work by knowing what to keep", stay creative my freinds C:
 
 ***
 ![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)
