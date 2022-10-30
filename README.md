@@ -1,7 +1,7 @@
 ![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)
 ***
 ## 📑 Hey, I'm Emi
-A 19 yo developer and entrepreneur from Helsinki, Finland. My skills are still intermediate so my portfolio isn't fully there just yet, sorry about that. So far I've done websites, small games, mobile app designs, 3D designs, 3D animations and music. I also have experience in SEO (search engine optimization), creative writing and social media on a professional level. My goal is to become a semi full-rounded dev, as I love to pick up skills and learn new things.
+A 19 yo developer and entrepreneur from Helsinki, Finland. My skills are still intermediate so my portfolio isn't fully there just yet, sorry about that. So far I've done websites, small games, mobile app designs, 3D designs, 3D animations and music. I also have experience in SEO (search engine optimization), web development, content writing and social media on a professional level. I love to pick up skills and learn new things.
 
 <div id="profile-visits" align="center">
   <p>“Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.” ~Scott Adams</p>
