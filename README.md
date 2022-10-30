@@ -6,7 +6,7 @@ A 19 yo developer and entrepreneur from Helsinki, Finland. My skills are still i
 <div id="profile-visits" align="center">
   <p>“Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.” ~Scott Adams</p>
 </div>
-So techonically, Coding is an art, and devs are artists  C:
+With this you can say that: codes are purely mistakes, coding is an art, and developers are artists who make it work by knowing what to keep  C:
 
 ***
 ![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)
