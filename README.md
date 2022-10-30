@@ -37,8 +37,6 @@ With this logic you can say that: codes are purely mistakes, coding is an art, a
 ***
 ![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)
 ***
-![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
-***
 ## 📬 Contact me - Coming soon...
 <div id="bear & snail gifs" align="center">
   <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
@@ -120,6 +118,7 @@ https://giphy.com/abunchabears
 [![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-URL)
 
 A 19 yo software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games and mobile apps to 3D designs, -animations and music. I also have experience with SEO (search engine optimization) and cyber security. Though I might be a full rounded dev, I still love to pick up new skills and learn new things as I go C:
+![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
 
 | Programming languages | Frameworks, Platforms & Libraries | Other |
 | ------------------------------------- | ------------------------------------- | -------------------------------------|
