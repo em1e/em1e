@@ -93,7 +93,7 @@ Get your own GitHub profile parrot here ↓
 </div>
 
 <div id="fuck you >:)" align="right">
-  P.S. Do feel scared to contact me! No, you didn't read that wrong!!
+  P.S. As far as I know, I don't bite. 
 </div>
                             
 ***
