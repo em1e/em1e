@@ -45,7 +45,7 @@ With this logic you can say that "Codes are purely mistakes, some work, and some
   <a href="https://www.buymeacoffee.com/em1e">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
   </a>
-  <a href="your-stackoverflow-URL">
+  <a href="https://stackoverflow.com/u/20376119">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
   <a href="mailto:emi.projects@outlook.com">
