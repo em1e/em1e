@@ -38,7 +38,12 @@ With this logic you can say that "Codes are purely mistakes, some work, and some
 ***
 ## 📬 Contact me - Coming soon...
 <div id="bear & snail gifs" align="center">
-    <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
+  <a href="https://abunchabears.uwu.ai/">
+    <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> 
+  </a>
+  <a href="https://abunchabears.uwu.ai/">
+    <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
+  </a>
 </div>
 
 <div id="contact badges" align="center"> 
@@ -57,7 +62,7 @@ With this logic you can say that "Codes are purely mistakes, some work, and some
    <a href="https://www.discordapp.com/users/700341252880597095">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-   <a href="your-inkedIn-URL">
+   <a href="https://www.linkedin.com/in/em1e/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>     
 </div>
