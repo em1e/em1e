@@ -76,7 +76,7 @@ With this logic you can say that "Codes are purely mistakes, some work, and some
 </div>      
 
 ***
-![Small banner 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)
+[![Small banner 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)](https://waneella.tumblr.com/)
 ***
 
 Get your own GitHub profile parrot here ↓
