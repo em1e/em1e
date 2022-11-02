@@ -56,9 +56,6 @@ With this logic you can say that "Codes are purely mistakes, some work, and some
   <a href="mailto:emi.projects@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-instargam-URL">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
    <a href="https://www.discordapp.com/users/700341252880597095">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
@@ -122,6 +119,10 @@ https://giphy.com/abunchabears
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord-server-URL)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-URL)
 [![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-URL)
+
+<a href="your-instargam-URL">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
 
 ![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
 
