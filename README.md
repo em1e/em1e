@@ -1,7 +1,7 @@
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 ## 📑 Hey, I'm Emi
-A 19 yo developer and entrepreneur from Helsinki, Finland. So far, some personal projects I've worked on include websites (front-end, back-end and SEO), small games, mobile apps, 3D designs, 3D animations and music. I also have work experience in web development (front-end and back-end), content writing and social media. I love to pick up skills and learn new things. Right now I'm learning more about the field on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, so unfortunately I'm not actively looking for new job opportunities. Either way, do contact me if you're interested in working together.
+A 19 yo developer and entrepreneur from Helsinki, Finland. I do this and that related to code and 3D stuff; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm learning more about the field on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>. Do contact me if you're interested in working together.
 
 If "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.”(Scott Adams), then with this logic one can say that "Codes are purely mistakes, where some work and some don't. While coding in itself is an art, and developers are artists who make it work by knowing what to keep". Stay creative my friends C:
 
