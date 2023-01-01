@@ -31,7 +31,7 @@ If "Creativity is allowing yourself to make mistakes. Art is knowing which ones 
 </div>
 
 ***
-[![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
+![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
 ***
 ## 📬 Contact me
 <div id="bear & snail gifs" align="center">
@@ -121,6 +121,7 @@ https://giphy.com/abunchabears
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 
+[![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
 ![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
 
 | Programming languages | FrameworkA 19 yo software engineer and entrepreneur from Helsinki, Finland. I've made things from websites, desktop applications, small video games and mobile apps to 3D designs, -animations and music. I also have experience with SEO (search engine optimization) and cyber security. Though I might be a full rounded dev, I still love to pick up new skills and learn new things as I go C:s, Platforms & Libraries | Other |
