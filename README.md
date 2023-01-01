@@ -13,19 +13,20 @@ If "Creativity is allowing yourself to make mistakes. Art is knowing which ones 
 
 <div id="tech stuff" align="center">
   <table>
-    <tr>
+    <tr> <!--- Row 1 --->
       <th>Programming languages</th>
       <th>Frameworks, Platforms & Libraries</th>
       <th>Tools & Databases</th>
     </tr>
-    <tr>
+    <tr> <!--- Row 2 --->
       <td> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; </td>
       <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next.js" alt="next.js" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; </td>
       <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="dlender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;</td>
     </tr>
   </table> 
   
-  <div id="orange texty thingy :P">
+  <!--- Automatic orange text loop --->
+  <div id="orange text">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=D2962B&multiline=true&width=700&height=155&lines=Here's+a+list+of+technical+stuff+I'm+familiar+with%2C+and;have+previous+experience+in%2C+e.g.+from+projects.+In+the;past+I've+done+many+projects%2C+out+of+which+the+biggest;ones+can+be+found+on+my+website.;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.;Anyway%2C+thanks+for+checking+out+my+profile+%09%E2%99%A5" alt="Typing SVG" /></a><br></br>
   </div>
 </div>
@@ -33,8 +34,10 @@ If "Creativity is allowing yourself to make mistakes. Art is knowing which ones 
 ***
 ![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
 ***
+
 ## 📬 Contact me
-<div id="bear & snail gifs" align="center">
+<!--- Contact gifs --->
+<div id="bear & snail" align="center">
   <a href="https://abunchabears.uwu.ai/">
     <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> 
   </a>
@@ -43,6 +46,7 @@ If "Creativity is allowing yourself to make mistakes. Art is knowing which ones 
   </a>
 </div>
 
+<!--- Contact badges --->
 <div id="contact badges" align="center"> 
   <a href="https://www.buymeacoffee.com/em1e">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
@@ -61,10 +65,12 @@ If "Creativity is allowing yourself to make mistakes. Art is knowing which ones 
   </a>     
 </div>
 
+<!--- Profile view count --->
 <div id="profile-visits text" align="center">
   <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=E1306C" alt=""/> 
 </div>
-                                                                                                                          
+
+<!--- Artists, right --->
 <div id="artists text" align="right">
   <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
 </div>      
@@ -74,12 +80,14 @@ If "Creativity is allowing yourself to make mistakes. Art is knowing which ones 
 ***
 
 Get your own GitHub profile parrot here ↓
+<!--- Puts code on profile front as it is --->
 ~~~~
 <div id="Parrots" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
 </div>
 ~~~~
 
+<!--- Parrot gifs --->
 <div id="Parrot gifs" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
