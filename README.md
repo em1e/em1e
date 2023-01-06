@@ -1,7 +1,7 @@
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 ## 📑 Hey, I'm Emi
-A developer and entrepreneur from Helsinki, Finland. I do this and that related to business, code and 3D stuff; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm learning more about blender by myself, as well as deep learning & ai on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>. Do contact me if you're interested in working together.
+A developer and entrepreneur from Helsinki, Finland. I do this and that related to business, code and 3D stuff; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm expanding my skills with blender by myself, as well as learning more about deep learning & ai on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>. Do contact me if you're interested in working together.
 
 If "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.”(Scott Adams), with this logic one can say that "Codes are full of mistakes, where some work and some don't. While coding in itself is an art, and developers are artists who make it work by knowing what to keep."
  
