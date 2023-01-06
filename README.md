@@ -32,7 +32,7 @@ If "Creativity is allowing yourself to make mistakes. Art is knowing which ones 
 </div>
 
 ***
-![Snake animation](https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg)
+[![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
 ***
 
 ## 📬 Contact me
