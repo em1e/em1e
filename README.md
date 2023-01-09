@@ -3,7 +3,7 @@
 ## 📑 Hey, I'm Emi
 A developer and entrepreneur from Helsinki, Finland. I do this and that related to business, code and 3D stuff; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm expanding my skills with blender by myself, as well as learning about cyber security, machine learning & ai on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>. Do contact me if you're interested in working together.
 
-If "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.”(Scott Adams), then with this logic one can say that "Codes are full of mistakes, where some work and some don't. While coding in itself is an art, and developers are artists who make it work by knowing what to keep."
+”If you don’t balance what you love, what you’re good at, what the world needs and what makes you money, you’ll never be happy. Just because you used all that time and effort, it doesn’t guarantee happiness or success in this game called life.” - My grandfather
  
 ***
 [![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
