@@ -3,8 +3,11 @@
 ## 📑 Hey, I'm Emi
 A developer and entrepreneur from Helsinki, Finland. I do this and that related to business, code and 3D stuff; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm expanding my skills with blender by myself, as well as learning about cyber security, machine learning & ai on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>. Do contact me if you're interested in working together.
 
-”If you don’t balance what you love, what you’re good at, what the world needs and what makes you money, you’ll never be happy. Just because you used all that time and effort, it doesn’t guarantee happiness or success in this game called life.” - My grandfather
- 
+  <!--- Automatic orange text loop thingy --->
+ <div id="orange text" align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F79973&background=FFFFFF00&multiline=true&repeat=false&width=700&height=160&lines=%E2%80%9DIf+you+don%E2%80%99t+balance+what+you+love%2C+what+you%E2%80%99re+good+at%2C+;+what+the+world+needs+and+what+makes+you+money%2C+you%E2%80%99ll+;never+be+happy.+Just+because+you+used+all+that+time+and+;effort%2C+it+doesn%E2%80%99t+guarantee+happiness+or+success+in+;this+game+called+life.%E2%80%9D+-+My+grandfather" alt="Typing SVG" /></a><br></br>
+ </div>
+
 ***
 [![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
 ***
@@ -17,18 +20,15 @@ A developer and entrepreneur from Helsinki, Finland. I do this and that related 
       <th>Programming languages</th>
       <th>Frameworks, Platforms & Libraries</th>
       <th>Tools & Databases</th>
+      <th>Learning</th>
     </tr>
     <tr> <!--- Row 2 --->
       <td> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; </td>
       <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next.js" alt="next.js" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; </td>
-      <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="dlender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;</td>
-    </tr>
+      <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="dlender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp; </td>
+    <td> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp; </td>
+   </tr>
   </table> 
-  
-  <!--- Automatic orange text loop thingy --->
-  <div id="orange text">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=D2962B&multiline=true&width=700&height=155&lines=Here's+a+list+of+technical+stuff+I'm+familiar+with%2C+and;have+previous+experience+in%2C+e.g.+from+projects.+In+the;past+I've+done+many+projects%2C+out+of+which+the+biggest;ones+can+be+found+on+my+website.;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.;Anyway%2C+thanks+for+checking+out+my+profile+%09%E2%99%A5" alt="Typing SVG" /></a><br></br>
-  </div>
 </div>
 
 ***
