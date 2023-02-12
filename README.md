@@ -30,10 +30,11 @@ A developer from Helsinki, Finland. I do this and that related to business, code
    </tr>
   </table> 
 </div>
-
+<!---
 ***
 [![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
 ***
+--->
 
 ## 📬 Contact me
 <!--- Contact gifs <3 --->
