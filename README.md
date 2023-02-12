@@ -76,21 +76,21 @@ A developer from Helsinki, Finland. I do this and that related to business, code
 <!--- Artists, right --->
 <div id="artists text" align="right">
   <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
-</div>      
+</div>     
 
+<!---
 ***
 [![Small banner 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)](https://waneella.tumblr.com/)
 ***
 
 Get your own GitHub profile parrot here ↓
-<!--- Puts code on profile front as it is --->
+ Puts code on profile front as it is 
 ~~~~
 <div id="Parrots" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
 </div>
 ~~~~
 
-<!--- Parrot gifs --->
 <div id="Parrot gifs" align="center">
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
@@ -104,10 +104,8 @@ Get your own GitHub profile parrot here ↓
 <div id="fuck you >:)" align="right">
   P.S. As far as I know, I don't bite. 
 </div>
-                            
-***
 
-<!--- !! Stuff I might use at some point. !!
+ !! Stuff I might use at some point. !!
 
 !! LINKS !!
 https://readme-typing-svg.herokuapp.com/demo/
