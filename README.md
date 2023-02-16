@@ -2,7 +2,7 @@
 ***
 ## 📑 Hey, I'm Emi
 A developer from Helsinki, Finland. I do this and that related to business, code and 3D; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm expanding my skills with blender by myself, as well as learning about cyber security, machine learning & ai on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>.
-
+ 
   <!--- Automatic orange text loop thingy --->
  <div id="orange text" align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F79973&background=FFFFFF00&multiline=true&repeat=false&width=700&height=160&lines=%E2%80%9DIf+you+don%E2%80%99t+balance+what+you+love%2C+what+you%E2%80%99re+good+at%2C+;+what+the+world+needs+and+what+makes+you+money%2C+you%E2%80%99ll+;never+be+happy.+Just+because+you+used+all+that+time+and+;effort%2C+it+doesn%E2%80%99t+guarantee+happiness+or+success+in+;this+game+called+life.%E2%80%9D+-+My+grandfather" alt="Typing SVG" /></a><br></br>
