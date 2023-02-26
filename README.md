@@ -1,7 +1,7 @@
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 ## 📑 Hey, I'm Emi
-A developer from Helsinki, Finland. I do this and that related to business, code and 3D; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm expanding my skills with blender by myself, as well as learning about cyber security, machine learning & ai on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>.
+A developer from Helsinki, Finland. I do this and that related to business, code and 3D; be it websites, games, animations or art. I love to pick up skills and learn new things. Right now I'm expanding my skills with blender by myself, as well as learning about cyber security, machine learning & ai on <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a> and from <a href="https://github.com/karpathy" target=”blank”>Andrej Karpathy</a>.
  
   <!--- Automatic orange text loop thingy --->
  <div id="orange text" align="center">
