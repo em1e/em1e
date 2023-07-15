@@ -1,3 +1,10 @@
+<!--- 
+NOTE:
+      IF YOU WANT TO USE MY GIT PROFILE LAYOUT THEN AT LEAST TAKE THE TIME TO EDIT IT ACCORDINGLY AND PLEASE GIVE ME SOME CREDIT FOR THE 
+      WORK. I'VE ALSO MADE A GITHUB_PROFILE_101 REPO, WITH LINKS TO EVERYTHING I USED DUE TO ALL THE DMS. SO USE THEM AND CUSTOMISE IT TO 
+      LOOK LIKE YOU. THANK YOU. 
+--->
+
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 ## 📑 Hey, I'm Emi
