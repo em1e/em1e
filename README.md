@@ -8,7 +8,7 @@ NOTE:
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 ## 📑 Hey, I'm Emi
-A Full-Stack developer who does this on their free time related to businesses and code; be it managing cloud servers, building websites, seo, or small games, 3D models or helping others out with their code. I'm also familiar with mobile app developing as well as web designing on a ux/ui level. I love to pick up skills and am constantly learning new things. Right now I'm expanding my knowledge on cyber security, machine learning & ai with <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a> and <a href="https://github.com/karpathy" target=”blank”>Andrej Karpathy</a>, and hopefully starting my studies in one of the <a href="https://www.42network.org/" target=”blank”>42 Network</a> campuses in October 2023.
+A developer who does this on their free time related to businesses and code; be it managing cloud servers, building websites, seo, or small games, 3D models or helping others out with their code. I'm also familiar with mobile app developing as well as web designing on a ux/ui level. I love to pick up skills and am constantly learning new things. Right now I'm expanding my knowledge on cyber security, machine learning & ai with <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a> and <a href="https://github.com/karpathy" target=”blank”>Andrej Karpathy</a>, and hopefully starting my studies in one of the <a href="https://www.42network.org/" target=”blank”>42 Network</a> campuses in October 2023.
  
   <!--- Automatic orange text loop thingy --->
  <div id="orange text" align="center">
