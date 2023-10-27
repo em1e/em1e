@@ -8,7 +8,7 @@ NOTE:
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 ## 📑 Hey, I'm Emi
-A developer who does this on their free time related to code. At the moment I study in a <a href="https://www.42network.org/" target=”blank”>42 Network School</a>, so always looking for internship opportunities. I have experience in managing cloud servers (aws), seo, building websites (mainly front, but also some backend), small games, 3D models or helping/mentoring others out with their code. Right now my main interest lies in game development and cyber security which I study at <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as machine learning && ai from <a href="https://github.com/karpathy" target=”blank”>Andrej Karpathy</a>. I love to pick up skills, networking and am constantly learning something new. 
+A developer who does this on their free time related to code. At the moment I study in a <a href="https://www.42network.org/" target=”blank”>42 Network School</a>, so always looking for internship opportunities. I have experience in managing cloud servers (aws), seo, building websites (mainly front, but also some backend), small games, 3D models and helping/mentoring others out with their code. Right now my interest lies in game development and cyber security which I study at <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as machine learning && ai from <a href="https://github.com/karpathy" target=”blank”>Andrej Karpathy</a>. I love to pick up skills, networking and am constantly learning something new. 
  
   <!--- Automatic orange text loop thingy --->
  <div id="orange text" align="center">
