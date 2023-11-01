@@ -7,17 +7,15 @@ NOTE:
 
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
-## 📑 Hey and welcome to my profile,
-I'm Emi, a developer who's still exploring the opportunities found in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, always open for intriguing projects and internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learn about neural networks (ANNs) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> on my free time. I love to pick up skills, network, and am constantly learning something new.
+## 📑 Hey I'm Emi,
+A developer who's still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, but always open for creative projects and internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learn about neural networks (ANNs) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
   <!--- Automatic orange text loop thingy --->
   <!---
  <div id="orange text" align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F79973&background=FFFFFF00&multiline=true&repeat=false&width=700&height=160&lines=%E2%80%9DIf+you+don%E2%80%99t+balance+what+you+love%2C+what+you%E2%80%99re+good+at%2C+;+what+the+world+needs+and+what+makes+you+money%2C+you%E2%80%99ll+;never+be+happy.+Just+because+you+used+all+that+time+and+;effort%2C+it+doesn%E2%80%99t+guarantee+happiness+or+success+in+;this+game+called+life.%E2%80%9D+-+My+grandfather" alt="Typing SVG" /></a><br></br>
  </div>
-
- --->
-<!---
+ 
 ***
 [![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/) --->
 
@@ -108,7 +106,7 @@ Get your own GitHub profile parrot here ↓
   <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/partyparrt-21.gif" width="100"/>
 </div>
 
-<div id="fuck you >:)" align="right">
+<div id="meow" align="right">
   P.S. As far as I know, I don't bite. 
 </div>
 
