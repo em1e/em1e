@@ -8,7 +8,7 @@ NOTE:
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 ## 📑 Hey I'm Emi,
-A developer who's still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, but always open for creative projects and internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learn about neural networks (ANNs) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
+A Software Engineer who's still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, however, am always open for creative projects and internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learn about neural networks (ANNs) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
   <!--- Automatic orange text loop thingy --->
   <!---
