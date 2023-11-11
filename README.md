@@ -16,10 +16,10 @@ NOTE:
 
 <div id="projects" align="center">
 
-| Project| Technologies |
-| ----------- | ----------|
+| Project | Technologies |
+| ------ | -------|
 | [Coming soon]() | test |
-| [Coming soon]() | test |
+| [Coming soon]() | teswertyyt |
 | [Coming soon]() | test |
 | [Coming soon]() | test |
 | [Coming soon]() | test |
@@ -119,7 +119,7 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
   <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
 </div> 
 
-## 
+***
 
 > [!NOTE]
 > These are some of the rescourses I used while making this profile.
@@ -148,6 +148,61 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 [![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
 
 <!---
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [26,120],
+              [26,119],
+              [24,119],
+              [24,120],
+              [26,120]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+<details>
+<summary> Looking to make a better Github profile? Tap here!</summary><br>
+
+> [!NOTE]
+> These are some of the rescourses I used while making this profile.
+<table>
+<td>
+
++  [Inspiration](https://github.com/coderjojo/creative-profile-readme)
++  [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
++  [Color](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
++  [Icons](https://github.com/devicons/devicon/tree/master)
+
+</td>
+<td>
+
++ [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
++ [View counter](https://github.com/antonkomarev/github-profile-views-counter)
++ [GIFs](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-an-animated-gif-to-a-markdown-file)
++ [Text generator](https://readme-typing-svg.herokuapp.com/demo/)
+      
+</td>
+</table>
+</td>
+</table>
+</details>
+
 ***
 [![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
 ***
