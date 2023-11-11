@@ -19,7 +19,7 @@ NOTE:
 | Project | Technologies |
 | ------ | -------|
 | [Coming soon]() | test |
-| [Coming soon]() | teswertyyt |
+| [Coming soon]() | test |
 | [Coming soon]() | test |
 | [Coming soon]() | test |
 | [Coming soon]() | test |
@@ -68,7 +68,7 @@ NOTE:
 <td id="Right">
 
 ## 📑 Hey I'm Emi,
-A Software Engineer still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, but am always open to hear about cool project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
+A Software Engineer still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, but am always open to hear about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
 <!--- Contact gifs --->
@@ -119,7 +119,7 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 ***
 
 > [!NOTE]
-> These are some of the rescourses I used while making this profile.
+> These are some of the rescourses I found/used while making this profile.
 <table>
 <td>
 
@@ -131,10 +131,18 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 </td>
 <td>
 
++ [GIFs](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-an-animated-gif-to-a-markdown-file)
 + [Badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
 + [View counter](https://github.com/antonkomarev/github-profile-views-counter)
-+ [GIFs](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-an-animated-gif-to-a-markdown-file)
 + [Text generator](https://readme-typing-svg.herokuapp.com/demo/)
+      
+</td>
+<td>
+
++ [Snake animation](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme)
++ [Diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
++ [To do -lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
++ [Collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
       
 </td>
 </table>
