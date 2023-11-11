@@ -8,12 +8,13 @@ NOTE:
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 
-<table>
-<td>
+<!--- Parent starts --->
+<table id="Parent">
+<td id="Left">
 
-## 📑 Experience
+## 💼 Experience
 
-<div id="Projects" align="center">
+<div id="projects" align="center">
 
 | Project| Technologies |
 | ----------- | ----------|
@@ -27,42 +28,51 @@ NOTE:
 
 </div>
 
-## Credits
+```md
+> Problem solver
+> Team player
+> Learning oriented
+```
 
+## ⚡ Technologies
+
+<div id="projects" align="center" width="50">
 <table>
-<td>
-<div id="Credits" align="center">
-
-| Useful |
-| ----------- |
-| [Icons](https://github.com/devicons/devicon/tree/master)|
-| [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md) |
-| [Counter](https://github.com/antonkomarev/github-profile-views-counter) |
-| [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
-| [Inspiration](https://github.com/coderjojo/creative-profile-readme) |
-
+        <tr> <!--- Row 1 --->
+              <th>Languages</th>
+        </tr>
+        <tr align="center"> <!--- Row 2 --->
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; </td>
+        </tr>
+        <tr> <!--- Row 3 --->
+              <th>Learning</th>
+        </tr>
+        <tr align="center"> <!--- Row 4 --->
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp; </td>
+        </tr>
+        <tr> <!--- Row 5 --->
+              <th>Frameworks, Platforms & Libraries</th>
+        </tr>
+        <tr align="center"> <!--- Row 6 --->
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pythorch" alt="pytorch" width="40" height="40"/>&nbsp; </td>
+        </tr>
+        <tr> <!--- Row 7 --->
+              <th>Tools & Databases</th>
+        </tr>
+        <tr align="center"> <!--- Row 8 --->
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp; </td>
+        </tr>
+  </table>
 </div>
 </td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><br></br><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/>
-</td>
-</table>
-
-  <!---
-***
-[![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/) --->
- 
-</td>
-<td>
+<td id="Right">
 
 ## 📑 Hey I'm Emi,
-A Software Engineer still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, however, am always open for creative projects and internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
+A Software Engineer still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, but am always open to hear about cool project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
-<!--- Contact gifs <3 --->
-<div id="bear & snail" align="center">
+<!--- Contact gifs --->
+<div id="bear&sneal" align="center">
       <a href="https://abunchabears.uwu.ai/">
             <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> 
       </a>
@@ -77,16 +87,25 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
   </a>
   <a href="https://stackoverflow.com/u/20376119">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
   </a>
   <a href="mailto:emi.projects@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
    <a href="https://www.discordapp.com/users/700341252880597095">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
    <a href="https://exercism.org/profiles/Em1e">
-    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercismexer"/>
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism"/>
+  </a>
+  <a href="www.linkedin.com/in/em1e">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </div>
 
@@ -99,14 +118,64 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 <div id="artists text" align="right">
   <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
 </div> 
+
+## 
+
+> [!NOTE]
+> These are some of the rescourses I used while making this profile.
+<table>
+<td>
+
++  [Inspiration](https://github.com/coderjojo/creative-profile-readme)
++  [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
++  [Color](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
++  [Icons](https://github.com/devicons/devicon/tree/master)
+
+</td>
+<td>
+
++  [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
++  [View counter](https://github.com/antonkomarev/github-profile-views-counter)
++  [GIFs](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-an-animated-gif-to-a-markdown-file)
++  [Text generator](https://readme-typing-svg.herokuapp.com/demo/)
       
 </td>
 </table>
 
+</td>
+</table>
+
 ***
+[![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
 [![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
 ***
-      
+
+<!--- Child starts --->
+## Credits
+
+<table id="Child">
+<td id="Child left">
+<div id="Credits" align="center">
+
+| Useful |
+| ----------- |
+| [Icons](https://github.com/devicons/devicon/tree/master)|
+| [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md) |
+| [Counter](https://github.com/antonkomarev/github-profile-views-counter) |
+| [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
+| [Inspiration](https://github.com/coderjojo/creative-profile-readme) |
+
+</div>
+</td>
+
+<td id="Child right">
+<img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><br></br><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/>
+</td>
+</table>
+<!--- Child ends --->
+
+
+
 ## ⚡ Technologies
 
 <div id="tech stuff" align="center">
@@ -132,6 +201,8 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 [![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
 ***
 [![Small banner 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)](https://waneella.tumblr.com/)
+***
+[![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
 ***
 
 ~~~~
