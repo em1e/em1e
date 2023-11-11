@@ -98,11 +98,11 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
    <a href="https://www.discordapp.com/users/700341252880597095">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-   <a href="https://exercism.org/profiles/Em1e">
-    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism"/>
-  </a>
   <a href="www.linkedin.com/in/em1e">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+   <a href="https://exercism.org/profiles/Em1e">
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism"/>
   </a>
 </div>
 
