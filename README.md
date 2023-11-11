@@ -8,13 +8,14 @@ NOTE:
 [![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 
-<!--- Parent starts --->
 <table id="Parent">
-<td id="Left">
+<!--- Left side --->
+<td id="Left side">
 
 ## 💼 Experience
+<!--- Highlighted projects --->
 
-<div id="projects" align="center">
+<div align="center">
 
 | Project | Technologies |
 | ------ | -------|
@@ -25,8 +26,8 @@ NOTE:
 | [Coming soon]() | test |
 | [Coming soon]() | test |
 
-
 </div>
+<!--- Best qualities --->
 
 ```md
 > Problem solver
@@ -35,44 +36,46 @@ NOTE:
 ```
 
 ## ⚡ Technologies
+<!--- Some of the things I have experience in --->
 
 <div id="projects" align="center" width="50">
-<table>
-        <tr> <!--- Row 1 --->
+ <table>
+        <tr> <!--- Tech Row 1 --->
               <th>Languages</th>
         </tr>
-        <tr align="center"> <!--- Row 2 --->
+        <tr align="center"> <!--- Tech Row 2 --->
               <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; </td>
         </tr>
-        <tr> <!--- Row 3 --->
+        <tr> <!--- Tech Row 3 --->
               <th>Learning</th>
         </tr>
-        <tr align="center"> <!--- Row 4 --->
+        <tr align="center"> <!--- Tech Row 4 --->
               <td> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp; </td>
         </tr>
-        <tr> <!--- Row 5 --->
+        <tr> <!--- Tech Row 5 --->
               <th>Frameworks, Platforms & Libraries</th>
         </tr>
-        <tr align="center"> <!--- Row 6 --->
+        <tr align="center"> <!--- Tech Row 6 --->
               <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pythorch" alt="pytorch" width="40" height="40"/>&nbsp; </td>
         </tr>
-        <tr> <!--- Row 7 --->
+        <tr> <!--- Tech Row 7 --->
               <th>Tools & Databases</th>
         </tr>
-        <tr align="center"> <!--- Row 8 --->
+        <tr align="center"> <!--- Tech Row 8 --->
               <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp; </td>
         </tr>
   </table>
 </div>
 </td>
-<td id="Right">
+<!--- Right side --->
+<td id="Right side">
 
 ## 📑 Hey I'm Emi,
 A Software Engineer still exploring the opportunities in tech. At the moment I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a>, but am always open to hear about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
 <!--- Contact gifs --->
-<div id="bear&sneal" align="center">
+<div id="bearnsneal" align="center">
       <a href="https://abunchabears.uwu.ai/">
             <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> 
       </a>
@@ -83,36 +86,36 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 
 <!--- Contact badges --->
 <div id="contact badges" align="center"> 
-  <a href="https://www.buymeacoffee.com/em1e">
+  <a href="https://www.buymeacoffee.com/em1e"> <!--- buy me a coffee --->
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
   </a>
-  <a href="https://stackoverflow.com/u/20376119">
+  <a href="https://stackoverflow.com/u/20376119"> <!--- Stackoverflow --->
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
   </a>
-  <a href="mailto:emi.projects@outlook.com">
+  <a href="mailto:emi.projects@outlook.com"> <!--- Gmail --->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="">
+  <a href=""> <!--- CodeWars --->
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars"/>
   </a>
-   <a href="https://www.discordapp.com/users/700341252880597095">
+   <a href="https://www.discordapp.com/users/700341252880597095"> <!--- Discord --->
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="www.linkedin.com/in/em1e">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <a href="www.linkedin.com/in/em1e"> <!--- Linkedin --->
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-   <a href="https://exercism.org/profiles/Em1e">
-    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism"/>
+   <a href="https://exercism.org/profiles/Em1e"> <!--- Exercism --->
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/>
   </a>
 </div>
 
 <!--- Profile view count --->
-<div id="profile-visits text" align="center">
+<div id="visit-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=E1306C" alt=""/> 
 </div>
 
 <!--- Artists, right --->
-<div id="artists text" align="right">
+<div id="artists" align="right">
   <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
 </div> 
 
