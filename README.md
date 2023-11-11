@@ -134,76 +134,28 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 </td>
 <td>
 
-+  [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
-+  [View counter](https://github.com/antonkomarev/github-profile-views-counter)
-+  [GIFs](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-an-animated-gif-to-a-markdown-file)
-+  [Text generator](https://readme-typing-svg.herokuapp.com/demo/)
++ [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
++ [View counter](https://github.com/antonkomarev/github-profile-views-counter)
++ [GIFs](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-an-animated-gif-to-a-markdown-file)
++ [Text generator](https://readme-typing-svg.herokuapp.com/demo/)
       
 </td>
 </table>
-
 </td>
 </table>
 
 ***
 [![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
-[![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
-***
-
-<!--- Child starts --->
-## Credits
-
-<table id="Child">
-<td id="Child left">
-<div id="Credits" align="center">
-
-| Useful |
-| ----------- |
-| [Icons](https://github.com/devicons/devicon/tree/master)|
-| [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md) |
-| [Counter](https://github.com/antonkomarev/github-profile-views-counter) |
-| [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
-| [Inspiration](https://github.com/coderjojo/creative-profile-readme) |
-
-</div>
-</td>
-
-<td id="Child right">
-<img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><br></br><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/><img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" align="bottom" width="100"/>
-</td>
-</table>
-<!--- Child ends --->
-
-
-
-## ⚡ Technologies
-
-<div id="tech stuff" align="center">
-  <table>
-        <tr> <!--- Row 1 --->
-              <th>Programming languages</th>
-              <th>Frameworks, Platforms & Libraries</th>
-              <th>Tools & Databases</th>
-              <th>Learning</th>
-        </tr>
-        <tr> <!--- Row 2 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; </td>
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pythorch" alt="pytorch" width="40" height="40"/>&nbsp; </td>
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp; </td>
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp; </td>
-        </tr>
-  </table> 
-</div>
-
 
 <!---
+***
+[![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
 ***
 [![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
 ***
 [![Small banner 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)](https://waneella.tumblr.com/)
 ***
-[![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
-***
+
 
 ~~~~
 <div id="Parrots" align="center">
