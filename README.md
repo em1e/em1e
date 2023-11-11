@@ -5,7 +5,8 @@ NOTE:
       SO USE THEM AND CUSTOMISE IT TO LOOK LIKE YOU. THANK YOU. 
 --->
 
-[![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
+[![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
+[![Small banner 2](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%202.gif)](https://waneella.tumblr.com/)
 ***
 
 <table id="Parent">
@@ -153,7 +154,7 @@ A Software Engineer still exploring the opportunities in tech. At the moment <b>
 </table>
 
 ***
-[![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
+[![Small banner 3](https://github.com/em1e/em1e/blob/main/banners/Banner%20small%203.gif)](https://waneella.tumblr.com/)
 
 <!---
 
@@ -211,6 +212,7 @@ A Software Engineer still exploring the opportunities in tech. At the moment <b>
 </table>
 </details>
 
+[![Main banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20main%202.gif)](https://waneella.tumblr.com/)
 ***
 [![Small banner](https://github.com/em1e/em1e/blob/main/banners/Banner%20small.gif)](https://waneella.tumblr.com/)
 ***
