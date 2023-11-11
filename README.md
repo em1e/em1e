@@ -95,9 +95,6 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
   <a href="">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars"/>
   </a>
-   <a href="">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
    <a href="https://www.discordapp.com/users/700341252880597095">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
