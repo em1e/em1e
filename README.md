@@ -131,7 +131,7 @@ A Software Engineer still exploring the opportunities in tech. At the moment I'm
 </td>
 <td>
 
-+ [badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
++ [Badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
 + [View counter](https://github.com/antonkomarev/github-profile-views-counter)
 + [GIFs](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-an-animated-gif-to-a-markdown-file)
 + [Text generator](https://readme-typing-svg.herokuapp.com/demo/)
