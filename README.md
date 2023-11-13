@@ -30,7 +30,7 @@ NOTE:
 <a href="coming-soon/">
       <img src="https://img.shields.io/badge/Access%20my%20CV%20from%20here-darkgreen?style=flat-square" width="150"/> 
 </a>
-</div><br>
+</div>
 <!--- Best qualities --->
 
 ```md
@@ -75,7 +75,7 @@ NOTE:
 <td id="Right side">
 
 ## 📑 Hey I'm Emi,
-A to be Software Engineer still exploring the opportunities in tech. At the moment <b><i>I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, but am always open to hear about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
+At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, always open to hear about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
 <!--- Contact gifs --->
