@@ -51,7 +51,7 @@ NOTE:
               <th>Learning</th>
         </tr>
         <tr align="center"> <!--- Tech Row 4 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp; </td>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp; </td>
         </tr>
         <tr> <!--- Tech Row 5 --->
               <th>Frameworks, Platforms & Libraries</th>
@@ -72,7 +72,7 @@ NOTE:
 <td id="Right side">
 
 ## 📑 Hey I'm Emi,
-A Software Engineer still exploring the opportunities in tech. At the moment <b><i>I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, but am always open to hear about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
+A to be Software Engineer still exploring the opportunities in tech. At the moment <b><i>I'm a student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, but am always open to hear about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
 <!--- Contact gifs --->
