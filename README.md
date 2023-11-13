@@ -27,12 +27,15 @@ NOTE:
 | [Coming soon]() | test |
 | [Coming soon]() | test |
 
-</div>
+<a href="coming-soon/">
+      <img src="https://img.shields.io/badge/Access%20my%20CV%20from%20here-darkgreen?style=flat-square" width="150"/> 
+</a>
+</div><br>
 <!--- Best qualities --->
 
 ```md
 > Problem solver
-> Team player
+> Teamplayer
 > Learning oriented
 ```
 
@@ -80,7 +83,7 @@ A to be Software Engineer still exploring the opportunities in tech. At the mome
       <a href="https://abunchabears.uwu.ai/">
             <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> 
       </a>
-      <a href="https://abunchabears.uwu.ai/">
+      <a href="https://abunchabearsuwu.ai/">
             <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
       </a>
 </div>
