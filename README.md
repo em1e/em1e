@@ -123,7 +123,7 @@ A Software Engineer still exploring the opportunities in tech. At the moment <b>
 ***
 
 > [!NOTE]
-> These are some of the rescourses I found/used while making this profile.
+> These are some of the rescourses I found while making this profile. Read more from [here](https://github.com/em1e/GitHub-Profile-101)!
 <table>
 <td>
 
