@@ -45,25 +45,25 @@ NOTE:
               <th>Languages</th>
         </tr>
         <tr align="center"> <!--- Tech Row 2 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; </td>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp; </td>
         </tr>
         <tr> <!--- Tech Row 3 --->
               <th>Learning</th>
         </tr>
         <tr align="center"> <!--- Tech Row 4 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp; </td>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp; </td>
         </tr>
         <tr> <!--- Tech Row 5 --->
               <th>Frameworks, Platforms & Libraries</th>
         </tr>
         <tr align="center"> <!--- Tech Row 6 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pythorch" alt="pytorch" width="40" height="40"/>&nbsp; </td>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pythorch" alt="pytorch" width="30" height="30"/>&nbsp; </td>
         </tr>
         <tr> <!--- Tech Row 7 --->
               <th>Tools & Databases</th>
         </tr>
         <tr align="center"> <!--- Tech Row 8 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp; </td>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="30" height="30"/>&nbsp; </td>
         </tr>
   </table>
 </div>
