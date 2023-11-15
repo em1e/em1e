@@ -126,7 +126,7 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
 ***
 
 > [!NOTE]
-> These are some of the rescourses I found while making this profile. Read more from [here](https://github.com/em1e/GitHub-Profile-101)!
+> These are some of the rescourses I found while making this profile. Read more from [here](https://github.com/em1e/101-for-github-README)!
 <table>
 <td>
 
