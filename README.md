@@ -20,8 +20,8 @@ NOTE:
 
 | Project | Technologies |
 | ------ | -------|
-| [Coming soon]() | test |
-| [Coming soon]() | test |
+| [42 Projects]() | C, C++, CG, ASM,..|
+| [Portfolio]() | coming soon |
 | [Coming soon]() | test |
 | [Coming soon]() | test |
 | [Coming soon]() | test |
@@ -75,7 +75,7 @@ NOTE:
 <td id="Right side">
 
 ## 📑 Hey I'm Emi,
-At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, always open to hearing about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a>, as well as learning about neural networks (ANN's) and basics of ai from <a href="https://github.com/karpathy/nn-zero-to-hero" target=”blank”>Andrej Karpath</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
+At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, and am always open to hearing about interesting project ideas or internship opportunities. I've been expanding my knowledge through <a href="https://zerotomastery.io/courses/" target=”blank”>ZeroToMastery</a> for a while now. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
 <!--- Contact gifs --->
