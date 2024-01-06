@@ -20,7 +20,7 @@ NOTE:
 
 | Project | Technologies |
 | ------ | -------|
-| [42 Projects]() | C, C++, CG, ASM,..|
+| [42 cursus projects](https://github.com/em1e/Hive-Helsinki) | C, C++, CG, ASM,..|
 | [Portfolio]() | coming soon |
 | [Coming soon]() | test |
 | [Coming soon]() | test |
