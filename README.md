@@ -75,7 +75,7 @@ NOTE:
 <td id="Right side">
 
 ## 📑 Hey I'm Emi,
-At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, and am always open to hearing about interesting project ideas or internship opportunities. I love to pick up skills, network, and am constantly learning something new.
+At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a></i></b>, and always open to hearing about interesting project ideas or internship opportunities. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
 <!--- Contact gifs --->
