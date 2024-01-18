@@ -105,10 +105,10 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
   </a>
   <a href="mailto:emi.projects@outlook.com"> <!--- Gmail --->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a> <!--- CodeWars --->
-  <!---<a href="https://www.codewars.com/users/em1e">
+  </a>
+  <a href="https://www.codewars.com/users/em1e"> <!--- CodeWars --->
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars"/>
-  </a> --->
+  </a>
    <a href="https://www.discordapp.com/users/700341252880597095"> <!--- Discord --->
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
