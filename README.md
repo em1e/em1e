@@ -92,7 +92,7 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
 
 <!--- CV --->
 <div id="cv" align="center">
-  <img src="https://img.shields.io/badge/Access%20my%20CV%20here-darkgreen?style=flat-square" width="200" alt="CV"/> 
+  <img src="https://img.shields.io/badge/Access%20my%20CV%20here-gray?style=flat-square" width="200" alt="CV"/> 
 </div>
 
 <!--- Contact badges --->
@@ -122,7 +122,7 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
 
 <!--- Profile view count --->
 <div id="visit-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=E1306C" alt=""/> 
+  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=318C1C" alt=""/> 
 </div>
 
 <!--- Artists, right --->
