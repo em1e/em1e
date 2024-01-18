@@ -27,16 +27,18 @@ NOTE:
 | [Coming soon]() | test |
 | [Coming soon]() | test |
 
+<!---
 <a href="coming-soon/">
       <img src="https://img.shields.io/badge/Access%20my%20CV%20from%20here-darkgreen?style=flat-square" width="150"/> 
 </a>
-</div>
+</div>--->
 <!--- Best qualities --->
 
 ```md
 > Problem solver
 > Teamplayer
 > Learning oriented
+> Quick learner
 ```
 
 ## ⚡ Technologies
@@ -88,20 +90,25 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
       </a>
 </div>
 
+<!--- CV --->
+<div id="cv" align="center">
+  <img src="https://img.shields.io/badge/Access%20my%20CV%20here-darkgreen?style=flat-square" width="200" alt="CV"/> 
+</div>
+
 <!--- Contact badges --->
-<div id="contact badges" align="center"> 
-  <a href="https://www.buymeacoffee.com/em1e"> <!--- buy me a coffee --->
+<div id="contact badges" align="center"> <!--- buy me a coffee --->
+  <!---<a href="https://www.buymeacoffee.com/em1e"> 
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
-  </a>
+  </a>--->
   <a href="https://stackoverflow.com/u/20376119"> <!--- Stackoverflow --->
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
   </a>
   <a href="mailto:emi.projects@outlook.com"> <!--- Gmail --->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.codewars.com/users/em1e"> <!--- CodeWars --->
+  </a> <!--- CodeWars --->
+  <!---<a href="https://www.codewars.com/users/em1e">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars"/>
-  </a>
+  </a> --->
    <a href="https://www.discordapp.com/users/700341252880597095"> <!--- Discord --->
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
