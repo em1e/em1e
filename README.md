@@ -39,7 +39,6 @@ NOTE:
 > Problem solver
 > Teamplayer
 > Learning oriented
-> Quick learner
 ```
 
 ## ⚡ Technologies
