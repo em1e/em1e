@@ -22,7 +22,7 @@ NOTE:
 | ------ | -------|
 | [42 Cursus Projects](https://github.com/em1e/Hive-Helsinki) | C, C++ |
 | [Portfolio]() | coming soon |
-| [Advent of Code](https://github.com/em1e/aoc) | C |
+| [Online Course notes](https://github.com/em1e/course-notes) | md |
 | [3D rgb sphere](https://github.com/em1e/3d-rgb-sphere) | html, js, three.js..|
 | [Coming soon]() | test |
 | [Coming soon]() | test |
