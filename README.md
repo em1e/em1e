@@ -128,7 +128,7 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
 
 <!--- Artists, right --->
 <div id="artists" align="right">
-  <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a>, <a href="https://www.instagram.com/samdoesarts/?hl=en">Sam Yang</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
+  <p>Art by <a href="https://waneella.tumblr.com/">WANEELLA</a> and <a href="https://abunchabears.uwu.ai/">A BUNCHABEARS</a>!</p>     
 </div> 
 
 ***
