@@ -134,7 +134,7 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
 ***
 
 > [!NOTE]
-> These are some of the rescourses I found while making this profile. Read more from [here](https://github.com/em1e/101-for-github-README)!
+> These are some of the rescourses I found while making this profile.
 <table>
 <td>
 
@@ -161,6 +161,8 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
       
 </td>
 </table>
+
+Read more from [here](https://github.com/em1e/101-for-github-README)!
 </td>
 </table>
 
