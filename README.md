@@ -76,7 +76,7 @@ NOTE:
 <!--- Right side --->
 <td id="Right side">
 
-## 📑 Hey I'm Emi,
+## 📑 Hey there!
 At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hive.fi/en" target=”blank”>Hive 42</a></i></b>. I always am open to hear about interesting project ideas or internship opportunities. On my free time I love swimming, cooking, reading and try to still have time to expand my knowledge though <a href="https://zerotomastery.io" target=”blank”>Zero to Mastery</a>. I love to pick up skills, network, and am constantly learning something new.
 
 ## 📬 Contact me
