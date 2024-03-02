@@ -20,12 +20,12 @@ NOTE:
 | Project | Technologies |
 | ------ | -------|
 | [42 Cursus Projects](https://github.com/em1e/Hive-Helsinki) | C, C++ |
-| [Portfolio]() | html, css, js |
+| Portfolio | html, css, js |
 | [Online Course notes](https://github.com/em1e/Course-notes) | md |
 | [3D rgb sphere](https://github.com/em1e/3d-rgb-sphere) | html, js, three.js..|
-| [Habit -game]() | html, js, three.js,.. |
-| [Coming soon]() | test |
-| [Coming soon]() | test |
+| Habit -game | html, js, three.js,.. |
+| Coming soon | test |
+| [Side-project](https://github.com/em1e/minecraft-portfolio) | private for now |
 
 <!---
 <a href="coming-soon/">
