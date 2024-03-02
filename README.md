@@ -12,11 +12,10 @@ NOTE:
 <table id="Parent">
 <!--- Left side --->
 <td id="Left side">
+<div align="center">
 
 ## 💼 Experience
 <!--- Highlighted projects --->
-
-<div align="center">
 
 | Project | Technologies |
 | ------ | -------|
