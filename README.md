@@ -88,12 +88,12 @@ At the moment I'm <b><i>studying Software Engineering at <a href="https://www.hi
             <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
       </a>
 </div>
-
+<!---
 <div id="cv" align="center">
-      <a href="https://github.com/em1e/em1e/blob/main/CV_2024.pdf"> <!--- CV --->
+      <a href="https://github.com/em1e/em1e/blob/main/CV_2024.pdf"> <!--- CV 
           <img src="https://img.shields.io/badge/Access%20my%20CV%20here-gray?style=flat-square" width="200" alt="CV"/>
         </a>
-</div>
+</div>--->
 
 <!--- Contact badges --->
 <div id="contact badges" align="center"> <!--- buy me a coffee --->
