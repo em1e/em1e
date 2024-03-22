@@ -67,7 +67,7 @@ NOTE:
               <th>Tools & Databases</th>
         </tr>
         <tr align="center"> <!--- Tech Row 8 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="30" height="30"/>&nbsp; <!---<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="30" height="30"/>&nbsp; </td> --->
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="30" height="30"/>&nbsp; <!---<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="30" height="30"/>&nbsp; </td> --->
         </tr>
   </table>
 </div>
