@@ -61,7 +61,7 @@ NOTE:
               <th>Frameworks, Platforms & Libraries</th>
         </tr>
         <tr align="center"> <!--- Tech Row 6 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pythorch" alt="pytorch" width="30" height="30"/>&nbsp; </td>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="node" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pythorch" alt="pytorch" width="30" height="30"/>&nbsp; </td>
         </tr>
         <tr> <!--- Tech Row 7 --->
               <th>Tools & Databases</th>
