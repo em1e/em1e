@@ -23,7 +23,6 @@ NOTE:
 | Portfolio | html, css, js |
 | [Online Course notes](https://github.com/em1e/Course-notes) | md |
 | [3D rgb sphere](https://github.com/em1e/3d-rgb-sphere) | html, js, three.js..|
-| Habit -game | html, js, three.js,.. |
 | Coming soon | test |
 | [Side-project](https://github.com/em1e/minecraft-portfolio) | private for now |
 
