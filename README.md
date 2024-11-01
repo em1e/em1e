@@ -87,12 +87,6 @@ At the moment I'm studying at <a href="https://www.hive.fi/en" target=â€blankâ€
             <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
       </a>
 </div>
-<!---
-<div id="cv" align="center">
-      <a href="https://github.com/em1e/em1e/blob/main/CV_2024.pdf"> <!--- CV 
-          <img src="https://img.shields.io/badge/Access%20my%20CV%20here-gray?style=flat-square" width="200" alt="CV"/>
-        </a>
-</div>--->
 
 <!--- Contact badges --->
 <div id="contact badges" align="center"> <!--- buy me a coffee --->
@@ -111,9 +105,11 @@ At the moment I'm studying at <a href="https://www.hive.fi/en" target=â€blankâ€
    <a href="https://www.discordapp.com/users/700341252880597095"> <!--- Discord --->
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.linkedin.com/in/em1e"> <!--- Linkedin --->
+  <!---
+  <a href="https://www.linkedin.com/in/em1e"> Linkedin
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
+  --->
    <a href="https://exercism.org/profiles/Em1e"> <!--- Exercism --->
     <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/>
   </a>
