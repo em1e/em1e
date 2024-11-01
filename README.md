@@ -102,7 +102,7 @@ At the moment I'm <b><i>studying Software Development at <a href="https://www.hi
   <a href="https://stackoverflow.com/u/20376119"> <!--- Stackoverflow --->
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
   </a>
-  <a href="mailto:emi.projects@outlook.com"> <!--- Gmail --->
+  <a href="mailto:emie.codes@outlook.com"> <!--- email --->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.codewars.com/users/em1e"> <!--- CodeWars --->
