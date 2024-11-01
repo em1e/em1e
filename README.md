@@ -75,7 +75,7 @@ NOTE:
 <td id="Right side">
 
 ## 📑 Hey there!
-At the moment I'm <b><i>studying Software Development at <a href="https://www.hive.fi/en" target=”blank”>Hive 42</a></i></b>. I always am open to hear about interesting project ideas or internship opportunities. On my free time I love swimming, cooking, reading and creative things. I love to pick up skills, network, and am constantly learning something new.
+At the moment I'm studying at <a href="https://www.hive.fi/en" target=”blank”>Hive</a>, but am always open to hear about interesting project ideas or internship opportunities.
 
 ## 📬 Contact me
 <!--- Contact gifs --->
