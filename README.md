@@ -43,7 +43,7 @@ NOTE:
 ## 📑 Hey there!
 I'm a software engineering student at <a href="https://www.hive.fi/en" target=”blank”>Hive Helsinki</a> (which is a 42 network school). There our main focus has been to learn C and C++ through complex projects. The schools unique peer to peer model has given me a lot of experience with performing code reviews, ask the right questions and allowed me to share what I have learned with others.
 
-Currently I'm working on Inception, which includes virtualizing several Docker images in a virtual machine, and learning Flutter on the side. 
+Currently I'm working on Inception, which teaches me how docker, mySQL and virtual machine's work. 
 
 ## 📬 Contact me
 
