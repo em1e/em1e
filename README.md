@@ -41,7 +41,9 @@ NOTE:
 <td id="Right side">
 
 ## 📑 Hey there!
-I'm a software Developer who loves working on differnet types of projects even on free-time! I always love a good challange.
+I'm a software Developer who loves working on differnet types of projects even on free-time! I love plants, cats, cooking, learning and always a good challange.
+
+
 
 ## 📬 Contact me
 
