@@ -26,7 +26,7 @@ NOTE:
               <th>Learning</th>
         </tr>
         <tr align="center"> <!--- Tech Row 4 --->
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="pytorch" width="30" height="30"/>&nbsp; </td>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp; <!---<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="pytorch" width="30" height="30"/>&nbsp;---> </td>
         </tr>
         <tr> <!--- Tech Row 5 --->
               <th>Frameworks, Platforms & Libraries</th>
@@ -53,18 +53,18 @@ I'm a software Developer who loves working on differnet types of projects even o
   <a href="mailto:emie.codes@outlook.com"> <!--- email --->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.codewars.com/users/em1e"> <!--- CodeWars --->
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars"/>
-  <!---</a>
-   <a href="https://www.discordapp.com/users/700341252880597095"> Discord
+  <!---<a href="https://www.codewars.com/users/em1e"> <!--- CodeWars --->
+    <!---<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars"/>
+  </a>
+   <!---<a href="https://www.discordapp.com/users/700341252880597095"> Discord
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>--->
   </a>
   <a href="https://www.linkedin.com/in/em1e"> <!--- Linkedin--->
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-   <a href="https://exercism.org/profiles/Em1e"> <!--- Exercism --->
+   <!---<a href="https://exercism.org/profiles/Em1e"> <!--- Exercism
     <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/>
-  </a>
+  </a>--->
 </div>
 
 <!--- Profile view count --->
